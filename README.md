@@ -43,7 +43,7 @@ This is a simple news app built with React that fetches and displays the latest 
    ```javascript
    const response = await axios.get("https://newsapi.org/v2/top-headlines", {
      params: {
-       country: "br",
+       country: "us",
        apiKey: "YOUR_API_KEY",
      },
    });
