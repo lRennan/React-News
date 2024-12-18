@@ -23,7 +23,7 @@ This is a simple news app built with React that fetches and displays the latest 
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/username/react-news-app.git
+   git clone https://github.com/lRennan/React-News.git
    ```
 
 2. Navigate into the project folder:
