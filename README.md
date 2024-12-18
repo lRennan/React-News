@@ -29,7 +29,7 @@ This is a simple news app built with React that fetches and displays the latest 
 2. Navigate into the project folder:
 
    ```bash
-   cd react-news-app
+   cd React-News
    ```
 
 3. Install the required dependencies:
