@@ -1,4 +1,3 @@
-Ah, entendi! Aqui está um exemplo de **README.md** para o seu projeto React que você pode usar no GitHub:
 
 ```markdown
 # React News App
